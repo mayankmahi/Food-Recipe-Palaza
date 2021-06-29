@@ -1,3 +1,3 @@
-export const YOUR_APP_ID = "34a4639a";
-export const API_KEY = "ddc7477f351499b2becc20721778daa6";
+export const YOUR_APP_ID = "c5319e36";
+export const API_KEY = "92603877445f24d5bbf692e2c79b3778";
 
